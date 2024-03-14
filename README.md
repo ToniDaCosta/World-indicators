@@ -65,6 +65,19 @@ The main objective of the project is to gather, analyze, and visualize global st
 - Implement a long-term project for continual learning and skill development.
 - Push boundaries and step out of the comfort zone to tackle new challenges.
 
+
+##  Links  
+
+**Tableau** : 
+https://www.canva.com/design/DAF_aIvzrBQ/VD04i8O6FbsdbtZkON6fqA/view?utm_content=DAF_aIvzrBQ&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+**Streamlit** : 
+
+https://world-indicators.streamlit.app/
+
+**Canvas Presentation** : 
+https://www.canva.com/design/DAF_aIvzrBQ/VD04i8O6FbsdbtZkON6fqA/view?utm_content=DAF_aIvzrBQ&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 ## Credits and Notes
 
 ### Note:
