@@ -5,7 +5,7 @@ import folium
 import pydeck as pdk
 from streamlit_folium import st_folium
 
-df = pd.read_csv(r"\data\Trasnformed_data.csv")
+df = pd.read_csv(r"data\Trasnformed_data.csv")
 
 df_cleaned = df.dropna(subset=['latitude', 'longitude'])
 df = df_cleaned
