@@ -69,7 +69,7 @@ The main objective of the project is to gather, analyze, and visualize global st
 ##  Links  
 
 **Tableau** : 
-https://www.canva.com/design/DAF_aIvzrBQ/VD04i8O6FbsdbtZkON6fqA/view?utm_content=DAF_aIvzrBQ&utm_campaign=designshare&utm_medium=link&utm_source=editor
+https://public.tableau.com/app/profile/antonio.da.costa/viz/WorldStatusby2023/WorldStory2023?publish=yes
 
 **Streamlit** : 
 
