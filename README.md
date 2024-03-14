@@ -68,15 +68,19 @@ The main objective of the project is to gather, analyze, and visualize global st
 
 ##  Links  
 
-**Tableau** : 
+**Tableau** :
+
 https://public.tableau.com/app/profile/antonio.da.costa/viz/WorldStatusby2023/WorldStory2023?publish=yes
 
 **Streamlit** : 
 
 https://world-indicators.streamlit.app/
 
-**Canvas Presentation** : 
+**Canvas Presentation** :
+
 https://www.canva.com/design/DAF_aIvzrBQ/VD04i8O6FbsdbtZkON6fqA/view?utm_content=DAF_aIvzrBQ&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+
 
 ## Credits and Notes
 

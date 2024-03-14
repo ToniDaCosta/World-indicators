@@ -18,11 +18,12 @@ def main():
     st.title(app_title)
     st.caption(sub_title)
 
-    total_population = df_cleaned['population'].sum()
-    formatted_population = '{:,}'.format(total_population)
-    st.title("195 Countries")
-    st.write("World Population:", formatted_population)
-
+    #total_population = df_cleaned['population'].sum()
+    #formatted_population = '{:,}'.format(total_population)
+    st.title("Information on 195 Countries was gathered from several sources")
+    st.write("The 'World Status by 2023' project aims to provide an overview of global statistics and indicators for the year 2023. It involves gathering data sets from various sources, analyzing the information, and presenting it in an accessible manner through visualizations and dashboards.")
+    
+    st.write("Please select a country in the 'sidebar' to view the information, we have also plotted some of the indicators for easy interpretation, feel free to wonder around!")
     st.sidebar.write("Country Details")
 
     unique_countries = df["country"].unique()
